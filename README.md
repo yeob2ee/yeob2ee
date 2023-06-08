@@ -1,12 +1,11 @@
-# 자기소개서
+# Hi there. I am Jinyeob 🙈. Welcome to my file.
 
-## 강의명 : 데이터분석 및 데이터 엔지니어 취업캠프 27회차
-## 이름 : 박진엽
-## 나이 : 27
-## 전공 : 경영학
 
-## 수정사항
-### 1번 수정
-### 2번 수정
-### 3번 수정
-etc
+
+## About Me
+- 🍎 Currently learning : Python, Operation Management
+- 🍋 E - mail : wlsduq4098@gmail.com
+
+---
+
+
